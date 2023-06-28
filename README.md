@@ -1,0 +1,2 @@
+# thetraining
+objetivo para treinar
